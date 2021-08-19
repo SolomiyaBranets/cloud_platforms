@@ -4,4 +4,4 @@ A pipeline that simulates a simple process of an AI business: A Container loads 
 To simplify the project, Azure Storage Table can be used instead of the Azure SQL and Azure Storage Queue can be used instead of Event Hub - please, let me know if that's fine. 
 
 Here's the diagram:
-![Diagram](diagram.png)
+![Diagram](https://github.com/SolomiyaBranets/cloud_platforms/blob/master/project/diagram.PNG)
